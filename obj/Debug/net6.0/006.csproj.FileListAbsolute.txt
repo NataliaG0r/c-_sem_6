@@ -1,0 +1,5 @@
+D:\Nata\Nata_QA\1_3_programing_languages_intro_c#\seminars_HT\006\obj\Debug\net6.0\006.csproj.AssemblyReference.cache
+D:\Nata\Nata_QA\1_3_programing_languages_intro_c#\seminars_HT\006\obj\Debug\net6.0\006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nata\Nata_QA\1_3_programing_languages_intro_c#\seminars_HT\006\obj\Debug\net6.0\006.AssemblyInfoInputs.cache
+D:\Nata\Nata_QA\1_3_programing_languages_intro_c#\seminars_HT\006\obj\Debug\net6.0\006.AssemblyInfo.cs
+D:\Nata\Nata_QA\1_3_programing_languages_intro_c#\seminars_HT\006\obj\Debug\net6.0\006.csproj.CoreCompileInputs.cache
